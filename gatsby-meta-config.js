@@ -53,7 +53,7 @@ module.exports = {
   
       {
         date: '2017.12 ~ 2018.12',
-        activity: 'Lead Software Engineer at Kinemaster,NexPlayer',
+        activity: 'Software Engineer and TPM at Kinemaster,NexPlayer',
         links: {
           demo: 'https://nexplayersdk.com/'
         }
@@ -61,7 +61,7 @@ module.exports = {
 
       {
         date: '2018.12 ~ 2020.03',
-        activity: 'Developer Relationship Engineer at Unity Technologies',
+        activity: 'Software Engineer at Unity Technologies',
         links: {
           demo: 'https://unity.com/',
         },
@@ -74,12 +74,19 @@ module.exports = {
         },
       },
       {
-        date: '2021.04 ~ ',
+        date: '2021.04 ~ 2024.04 ',
         activity: 'Lead Software Engineer at The Pinkfong Company',
         links: {
           demo: 'https://www.pinkfong.com/en/',
         }
       },
+      {
+        date: '2024.04 ~  ',
+        activity: 'Engineering Team Lead,Software Engineer at The Pinkfong Company',
+        links: {
+          demo: 'https://www.pinkfong.com/en/',
+        }
+      }
     ],
 
     projects: [

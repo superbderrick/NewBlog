@@ -82,7 +82,7 @@ module.exports = {
       },
       {
         date: '2024.04 ~  ',
-        activity: 'Engineering Team Lead,Software Engineer at The Pinkfong Company',
+        activity: 'Engineering Team Lead at The Pinkfong Company',
         links: {
           demo: 'https://www.pinkfong.com/en/',
         }

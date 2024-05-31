@@ -45,17 +45,17 @@ module.exports = {
     
       {
         date: '2012.12 ~ 2017.12',
-        activity: 'Software Engineer at Kinemaster,NexPlayer',
+        activity: 'Software Engineer at Kinemaster',
         links: {
-          demo: 'https://nexplayersdk.com/'
+          demo: 'https://kinemaster.com'
         }
       },
   
       {
         date: '2017.12 ~ 2018.12',
-        activity: 'Software Engineer and TPM at Kinemaster,NexPlayer',
+        activity: 'Software Engineer and TPM at Kinemaster',
         links: {
-          demo: 'https://nexplayersdk.com/'
+          demo: 'https://kinemaster.com'
         }
       },
 

@@ -1,9 +1,9 @@
 ---
 emoji: 🎮 
-title: Data Collection and Storage 5.1.1
+title: Data Collection and Storage apple iOS inapp review
 date: '2024-07-06 15:20:00'
 author: Derrick
-tags: Unity ios adid firebase
+tags: Unity iOS adid firebase
 categories: Unity iOS
 ---
 
